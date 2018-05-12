@@ -1,0 +1,49 @@
+_repo: La-Princesse-De-Cl-ves-par-Mme-de-La-Fayette--13-Edited-with-Introduction-and-Notes_20262
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Fayette, Madame de (Marie-Madeleine Pioche de La Vergne)
+    aliases:
+    - Fayette, Marie-Madeleine de la
+    - Fayette, Marie-Madeleine Pioche de La Vergne, comtesse de La
+    - De La Fayette, Madame (Marie-Madeleine Pioche de La Vergne)
+    - LaFayette, Madame de (Marie-Madeleine Pioche de La Vergne)
+    - Fayette, Madame de La (Marie-Madeleine Pioche de La Vergne)
+    birthdate: 1634
+    deathdate: 1693
+    gutenberg_agent_id: '249'
+    url: http://www.gutenberg.org/2009/agents/249
+    wikipedia: http://en.wikipedia.org/wiki/Marie-Madeleine_Pioche_de_la_Vergne%2C_comtesse_de_la_Fayette
+  editors:
+  - agent_name: Sledd, Benjamin Franklin
+    birthdate: 1864
+    deathdate: 1940
+    gutenberg_agent_id: '9195'
+    url: http://www.gutenberg.org/2009/agents/9195
+  - agent_name: Gorrell, Hendren J.
+    gutenberg_agent_id: '9196'
+    url: http://www.gutenberg.org/2009/agents/9196
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20262'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 16th century -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Married women -- Fiction'
+title: "La Princesse De Clèves par Mme de La Fayette\r\nEdited with Introduction and\
+  \ Notes"
+url: http://www.gutenberg.org/ebooks/20262
